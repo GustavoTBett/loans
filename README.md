@@ -5,6 +5,8 @@
 
 Programa que retorna os tipos de empréstimos possíveis utilizando Java e Spring Boot para aprendizado. 
 
+Desafio proposto por: https://github.com/backend-br/desafios/blob/master/loans/PROBLEM.md
+
 ```
     Exemplo:
     {
